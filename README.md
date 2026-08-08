@@ -35,3 +35,10 @@ To install the dependencies:
       1. Click the "Environment Variables..." button
       1. Select the `Path` system (or user) environment variable, and click "Edit..."
       1. Append `C:\ffmpeg\bin` to Path's directory list
+
+
+## How to Run the Examples
+
+Simply execute the demo scripts from within a *Windows PowerShell* or *Command Prompt (CMD)* window:
+* `python .\demo_cloned_voice.py`
+* `python .\demo_pretrained_voice.py`
