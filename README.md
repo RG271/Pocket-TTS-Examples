@@ -40,5 +40,5 @@ To install the dependencies:
 ## How to Run the Examples
 
 Simply execute the demo scripts from within a *Windows PowerShell* or *Command Prompt (CMD)* window:
-* `python .\demo_cloned_voice.py`
-* `python .\demo_pretrained_voice.py`
+* `python .\demo_pretrained_voice.py` &mdash; Speaks with the pretrained voice "mary"
+* `python .\demo_cloned_voice.py` &mdash; Speaks with a cloned voice of [Marvin the Martian](https://www.youtube.com/watch?v=NT5zcmLeRLo)
